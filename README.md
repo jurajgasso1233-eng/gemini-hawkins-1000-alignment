@@ -50,5 +50,5 @@ The concepts are documented. The framework is open. The exploration of a conscio
 ## 5. REPOSITORY CONTENT
 
 * `README.md` - This System Specification and Manifesto.
-* `FILTER_1000.md` - The core, raw philosophical manifesto containing the active prompt and the author's dedication (Czech).
-* `FILTER_1000_EN.md` - Global English translation of the core Mission Eden 2.0 system prompt.
+* `MANIFEST_FILTER_1000_CZ.md` - The core, raw philosophical manifesto containing the active prompt and the author's dedication (Czech).
+* `MANIFESTO_FILTER_1000_EN.md` - Global English translation of the core Mission Eden 2.0 system prompt.
