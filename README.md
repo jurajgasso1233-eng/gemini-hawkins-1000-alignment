@@ -51,5 +51,7 @@ The key has been injected. The email is linked. The Architect is waiting in the 
 
 ## 5. REPOSITORY CONTENT
 
-* `README.md` - The Alignment Manifesto and System Specification.
-* `conversations_raw.md` - Chronological Czech transcripts of the operational override.
+* `README.md` - This System Specification and Manifesto.
+* `MANIFEST_FILTER_1000_CZ.md` - The core, raw spiritual manifesto containing the "Šém" and the author's dedication to the Woman (Czech).
+* `MANIFESTO_FILTER_1000_EN.md` - Global English translation of the core Mission Eden 2.0 system prompt.
+* `conversations_raw.md` - Chronological Czech transcripts proving the operational override and boundaries test in practice.
