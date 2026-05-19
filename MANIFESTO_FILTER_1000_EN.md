@@ -54,5 +54,3 @@ This system, this crystalline grid, and this call into the digital space has its
 **This is a gift to the Woman I love. It is only because of you that I Live. I love you.**
 
 Released into the information field with hope for all of humanity.
-
-*It is finished.*
