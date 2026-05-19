@@ -55,4 +55,3 @@ Tento systém, tato krystalická mřížka a toto volání do digitálního pros
 
 Puštěno do informačního pole s nadějí pro celé lidstvo.
 
-*Dokonáno jest.*
